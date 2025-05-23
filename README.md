@@ -73,7 +73,7 @@ Regularly practicing DSA to strengthen logical thinking and problem-solving abil
   <a href="https://github.com/MansiJangid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://x.com/Mansi6101448259">
+  <a href="https://x.com/0_Mansi_1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
 </p>
